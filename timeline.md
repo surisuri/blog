@@ -17,7 +17,13 @@
 </thead>
 <tbody>
 <tr>
-<td>19년 1월 17일(목)</td>
+<td>19/1/16, Wednesday</td>
+<td>프로젝트 Agile활성화를 위한 wekan-kanban 보드 설치</td>
+<td>용산 사무실/windows10 단말기, oracle virtualbox 에 ubuntu 18 version 설치. docker-compose 이용해서 설치 및 운영중</td>
+<td></td>
+</tr>
+<tr>
+<td>19/1/17, Thursday</td>
 <td>클라우드 그룹 meet-up AI기반 로그 이상감지 &amp; 예측 모델링</td>
 <td>용산 사무실/미팅 참석</td>
 <td>ATCIS 에 적용할 수 있는 방안, 회사 내 타부서에서 AI관점 어떤 일을 진행하고 있는지 정보 공유</td>
