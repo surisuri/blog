@@ -1,30 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>timeline</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li>
-<ul>
-<li><a href="#timeline">Timeline</a></li>
-</ul>
-</li>
-</ul>
+---
 
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h2 id="timeline">Timeline</h2>
+<h2 id="timeline">Timeline</h2>
 <p>기획하고 공부하고 만들고 공유하고 있는 것들을 기록하는 공간</p>
 
 <table>
@@ -51,8 +30,3 @@
 </tr>
 </tbody>
 </table>
-    </div>
-  </div>
-</body>
-
-</html>
